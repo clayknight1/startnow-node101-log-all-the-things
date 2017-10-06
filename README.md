@@ -1,0 +1,1 @@
+This is a logger for node that tracks all visitors and their info. The depencies are Node, Express and fs
